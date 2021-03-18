@@ -1,0 +1,19 @@
+  46 svn checkout file:///C:/Users/elian/Documents/School%20stuff/CISC/3140/lab6-subversion/repo
+  47 ls
+  48 svn update
+  49 cd repo
+  50 svn update
+  51 svn add simpleprogram.py
+  52 notepad simpleprogram.py
+  53 python simpleprogram.py
+  54 git add simpleprogram.py
+  55 svn add simpleprogram.py
+  56 svn status
+  57 svn diff
+  58 svn update
+  59 ls
+  60 svn commit
+  61 svn commit -m "Initial commit"
+  62 notepad simpleprogram.py
+  63 svn update
+  64 svn commit -m "Printed a new message about svn"
