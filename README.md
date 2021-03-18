@@ -14,3 +14,5 @@ Once the working copy was created, I found that making and commiting changes usi
 
 Overall, I didn't find the two vcs to be all that much different.
 
+A source that helped me better understand the difference between the two: https://www.geeksforgeeks.org/centralized-vs-distributed-version-control-which-one-should-we-choose/
+
