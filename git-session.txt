@@ -1,0 +1,23 @@
+  329  cd documents/"school stuff"/Cisc/3140
+  330  mkdir lab6
+  331  cd lab6
+  332  history
+  333  man history
+  334  git init
+  335  vim simpleprogram
+  336  ls
+  337  rm ls
+  338  rm simpleprogram
+  339  vim simpleprogram.py
+  340  python simpleprogram.py
+  341  cd ..
+  342  mv lab6 lab6-git
+  343  ls
+  344  cd lab6-git
+  345  git add .
+  346  git status
+  347  git commit -m "initial commit"
+  348  vim simpleprogram.py
+  349  git add .
+  350  git commit -m "added another print"
+
